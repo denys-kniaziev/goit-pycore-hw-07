@@ -113,7 +113,3 @@ Below are the bot’s supported commands along with their descriptions:
    * Phone format: exactly 10 digits.
 4. **Graceful Exit**: Bot terminates cleanly on `close` or `exit`.
 5. **Code Quality**: Classes and methods are well-documented, follow PEP8, and use OOP principles.
-
----
-
-Good luck implementing these features!
